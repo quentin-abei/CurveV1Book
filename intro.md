@@ -1,6 +1,3 @@
-Apologies for the oversight. Below is the revised content in proper Markdown format, with the corrected formula.
-
----
 
 # Book on CurveV1: A Comprehensive Guide to StableSwap and its Comparison with Uniswap V2
 
